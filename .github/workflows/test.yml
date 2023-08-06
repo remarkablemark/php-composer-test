@@ -20,4 +20,4 @@ jobs:
         run: composer install --no-interaction --prefer-dist --optimize-autoloader
  
       - name: Run tests
-        run: vendor/bin/pest --coverage
+        run: vendor/bin/pest --coverage --min=100
