@@ -21,3 +21,6 @@ jobs:
  
       - name: Run tests
         run: vendor/bin/pest --coverage --min=100
+
+      - name: Codecov
+        uses: codecov/codecov-action@v3
