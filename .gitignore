@@ -1,0 +1,10 @@
+# Composer files
+/vendor/
+composer.lock
+composer.phar
+
+# Vim swap files
+*.swp
+
+# Mac OS
+.DS_Store
