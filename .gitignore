@@ -3,6 +3,9 @@
 composer.lock
 composer.phar
 
+# PHPUnit
+.phpunit.result.cache
+
 # Vim swap files
 *.swp
 
