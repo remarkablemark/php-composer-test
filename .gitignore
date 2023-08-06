@@ -6,6 +6,9 @@ composer.phar
 # PHPUnit
 .phpunit.result.cache
 
+# PHP CS Fixer
+.php-cs-fixer.cache
+
 # Vim swap files
 *.swp
 
