@@ -1,6 +1,6 @@
 # php-composer-test
 
-![Packagist Version (custom server)](https://img.shields.io/packagist/v/remarkablemark/php-composer-test)
+[![packagist](https://img.shields.io/packagist/v/remarkablemark/php-composer-test)](https://packagist.org/packages/remarkablemark/php-composer-test)
 [![test](https://github.com/remarkablemark/php-composer-test/actions/workflows/test.yml/badge.svg)](https://github.com/remarkablemark/php-composer-test/actions/workflows/test.yml)
 [![codecov](https://codecov.io/gh/remarkablemark/php-composer-test/branch/master/graph/badge.svg?token=NkVwvHqXqm)](https://codecov.io/gh/remarkablemark/php-composer-test)
 
