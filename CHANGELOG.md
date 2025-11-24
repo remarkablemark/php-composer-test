@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.0.1](https://github.com/remarkablemark/php-composer-test/compare/v1.0.0...v1.0.1) (2025-11-24)
+
+
+### Miscellaneous Chores
+
+* add .php-cs-fixer.dist.php ([d4eaf30](https://github.com/remarkablemark/php-composer-test/commit/d4eaf30ed9bb925705e3a4f1e7f24fe5f59268d3))
+* update .gitignore ([85130d1](https://github.com/remarkablemark/php-composer-test/commit/85130d198ace018cd7a6b99f3da441161ab71123))
+* update .gitignore ([6a22812](https://github.com/remarkablemark/php-composer-test/commit/6a22812628f70250a49b5b01a2be4d9ecfd9b548))
+
 ## 1.0.0 (2023-08-06)
 
 
